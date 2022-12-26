@@ -8,9 +8,10 @@
  *  ⚛️ React
  *  🖥️ HTML | CSS
  *  🍃 MongoDB
- *  🖥️ JavaScript | Node js | Chakra UI
+ *  💻 JavaScript | Node js | Chakra UI
 
 
+#### Additional Information
 - 🔭 I’m currently working on Masai School 
 - 🌱 I’m currently learning Full Stack Web Devlopment 
 - 👯 I’m looking to collaborate on Intresting projects 
