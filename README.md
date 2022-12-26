@@ -4,7 +4,12 @@
 
 I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, and efficient code.
 
-Skills: JavaScript | HTML | CSS | React | Node js | MongoDB | Chakra UI
+## Skills:
+ *  ⚛️ React
+ *  🖥️ HTML | CSS
+ *  🍃 MongoDB
+ *  🖥️ JavaScript | Node js | Chakra UI
+
 
 - 🔭 I’m currently working on Masai School 
 - 🌱 I’m currently learning Full Stack Web Devlopment 
@@ -35,13 +40,17 @@ Skills: JavaScript | HTML | CSS | React | Node js | MongoDB | Chakra UI
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujjwal21&show_icons=true&count_private=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujjwal21)  
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujjwal21)   -->
 
 ![GitHub metrics](https://metrics.lecoq.io/sujjwal21)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sujjwal21)  
 
 ![Profile views](https://gpvc.arturio.dev/sujjwal21)  
+
+
+
+Made with ❤ by sujjwal21.
 
 
 
