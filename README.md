@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Ujjwal Singh
+#### Design and Development
+![Design and Development](https://drive.google.com/file/d/1C5mDr7YYzuJz9Wl7MIm0S5joHTxufRRs/view?usp=share_link)
+
+I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, and efficient code.
+
+Skills: JavaScript | HTML | CSS | React | Node js | MongoDB | Chakra UI 
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 <!--
 **sujjwal21/sujjwal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
