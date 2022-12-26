@@ -1,6 +1,6 @@
 ### Hi there 👋, Ujjwal Singh
 #### Design and Development
-![Design and Development](https://mobisoftinfotech.com/resources/wp-content/uploads/2022/09/og-Mern-Stack-Developer-banner.png)
+![Design and Development]([https://mobisoftinfotech.com/resources/wp-content/uploads/2022/09/og-Mern-Stack-Developer-banner.png](https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png))
 
 I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, and efficient code.
 
