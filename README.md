@@ -1,12 +1,17 @@
 ### Hi there 👋, Ujjwal Singh
 #### Design and Development
-![Design and Development]([https://mobisoftinfotech.com/resources/wp-content/uploads/2022/09/og-Mern-Stack-Developer-banner.png](https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png))
+![Design and Development](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
 
 I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, and efficient code.
 
 Skills: JavaScript | HTML | CSS | React | Node js | MongoDB | Chakra UI
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
+
 
 
 
