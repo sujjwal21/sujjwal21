@@ -40,13 +40,18 @@ I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujjwal21&show_icons=true&count_private=true)  
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujjwal21)   -->
-
-![GitHub metrics](https://metrics.lecoq.io/sujjwal21)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sujjwal21)  
 
 ![Profile views](https://gpvc.arturio.dev/sujjwal21)  
+
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujjwal21)   -->
+
+![GitHub metrics](https://metrics.lecoq.io/sujjwal21)  
+
+
+
+
 
 
 
