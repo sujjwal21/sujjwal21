@@ -1,6 +1,6 @@
 ### Hi there 👋, Ujjwal Singh
 #### Design and Development
-![Design and Development](https://drive.google.com/file/d/1C5mDr7YYzuJz9Wl7MIm0S5joHTxufRRs/view?usp=share_link)
+![Design and Development]([https://drive.google.com/file/d/1C5mDr7YYzuJz9Wl7MIm0S5joHTxufRRs/view?usp=share_link](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png))
 
 I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, and efficient code.
 
