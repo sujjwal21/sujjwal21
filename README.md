@@ -1,5 +1,6 @@
-# Hi there ## 👋,Myself Ujjwal Singh
+# Hi there 👋,Myself Ujjwal Singh
 ## Design and Development
+
 ![Design and Development](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
 
  ### I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, and efficient code.
