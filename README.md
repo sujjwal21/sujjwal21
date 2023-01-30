@@ -1,4 +1,4 @@
-# Hi there 👋,Myself Ujjwal Singh
+# Hi👋,Myself Ujjwal Singh
 ## Design and Development
 
 ![Design and Development](https://live.staticflickr.com/65535/51350239267_54560763e6_b.jpg)
