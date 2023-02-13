@@ -112,7 +112,7 @@
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sujjwal21)  
 
 ![Profile views](https://gpvc.arturio.dev/sujjwal21)  
-<!-- <p align="left" > <img src="https://gpvc.arturio.dev/sujjwal21" alt="sujjwal21" width="20%"/> </p> -->
+<p align="left" > <img src="https://gpvc.arturio.dev/sujjwal21" alt="sujjwal21" width="20%"/> </p>
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujjwal21)   -->
 
