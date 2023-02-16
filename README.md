@@ -114,7 +114,7 @@
 <!-- ![Profile views](https://gpvc.arturio.dev/sujjwal21)  // -->
 <p align="left" > <img src="https://gpvc.arturio.dev/sujjwal21" alt="sujjwal21" width="20%"/> </p>
 
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujjwal21)   -->
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujjwal21)  
 
 ![GitHub metrics](https://metrics.lecoq.io/sujjwal21)  
 
