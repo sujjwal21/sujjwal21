@@ -9,7 +9,7 @@
  *  ⚛️ React
  *  🖥️ HTML | CSS
  *  🍃 MongoDB
- *  💻 JavaScript | Node js | Chakra UI
+ *  💻 JavaScript | Node js | Chakra UI |Express | Postman
 
 
 #### Additional Information
