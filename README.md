@@ -6,10 +6,10 @@
  ### I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, and efficient code.
 
 ## Skills:
- *  ⚛️ React
- *  🖥️ HTML | CSS
- *  🍃 MongoDB
- *  💻 JavaScript | Node js | Chakra UI |Express | Postman
+ *  ⚛️ React | Chakra UI
+ *  🖥️ HTML | CSS | JavaScript 
+ *  🍃 MongoDB | Node js | Express
+ *  💻 VsCode | Postman | Git
 
 
 #### Additional Information
