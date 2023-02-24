@@ -9,7 +9,7 @@
  *  ⚛️ React | Chakra UI
  *  🖥️ HTML | CSS | JavaScript 
  *  🍃 MongoDB | Node js | Express
- *  💻 VsCode | Postman | Git | Canva 
+ *  💻 VsCode | Postman | Git | Canva | npm |GitHub
 
 
 #### Additional Information
