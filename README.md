@@ -116,7 +116,7 @@
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=sujjwal21)   -->
 
-![GitHub metrics](https://metrics.lecoq.io/sujjwal21)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/sujjwal21)   -->
 
 
 
