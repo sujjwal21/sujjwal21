@@ -98,18 +98,18 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p> --> -->
+</p> --> 
 
 <!-- <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a>  -->
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sujjwal21)](https://github.com/ryo-ma/github-profile-trophy) -->
+# 📊 My Github Stats : 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujjwal21&theme=react-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujjwal21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujjwal21&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujjwal21&theme=react-dark&show_icons=true&count_private=true)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sujjwal21)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sujjwal21&theme=react-dark)  
 
 <!-- ![Profile views](https://gpvc.arturio.dev/sujjwal21)  // -->
 <p align="left" > <img src="https://gpvc.arturio.dev/sujjwal21" alt="sujjwal21" width="20%"/> </p>
@@ -119,7 +119,7 @@
 <!-- ![GitHub metrics](https://metrics.lecoq.io/sujjwal21)   -->
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ujjwal singh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sujjwal21&hide_border=true" /></a>
+  <a><img alt="Ujjwal singh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sujjwal21&theme=react-dark&hide_border=true" /></a>
 
 
 
