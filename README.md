@@ -119,7 +119,7 @@
 <!-- ![GitHub metrics](https://metrics.lecoq.io/sujjwal21)   -->
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Ujjwal singh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sujjwal21&theme=react-dark" /></a>
+  <a><img alt="Ujjwal singh Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=sujjwal21&hide_border=true" /></a>
 
 
 
