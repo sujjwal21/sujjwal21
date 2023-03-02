@@ -104,7 +104,7 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sujjwal21)](https://github.com/ryo-ma/github-profile-trophy) -->
 # 📊 My Github Stats : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujjwal21&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujjwal21&langs_count=8)
 <!-- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=sujjwal21&show_icons=true&locale=en&layout=compact" alt="Github stats" /></p> -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujjwal21&show_icons=true&count_private=true)  
