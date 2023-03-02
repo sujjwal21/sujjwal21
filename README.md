@@ -104,12 +104,12 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sujjwal21)](https://github.com/ryo-ma/github-profile-trophy) -->
 # 📊 My Github Stats : 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujjwal21&theme=react-dark&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujjwal21&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujjwal21&theme=react-dark&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujjwal21&show_icons=true&count_private=true)  
 
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sujjwal21&theme=react-dark)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sujjwal21)  
 
 <!-- ![Profile views](https://gpvc.arturio.dev/sujjwal21)  // -->
 <p align="left" > <img src="https://gpvc.arturio.dev/sujjwal21" alt="sujjwal21" width="20%"/> </p>
