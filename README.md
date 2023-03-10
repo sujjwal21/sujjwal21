@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on Intresting projects 
 - 💬 Ask me about MERN 
 - 📫 How to reach me: linkedin.com/in/ujjwal-singh-3209b0191 
-- ⚡ Fun fact: Animal lover and non-vegitarian 😄 
+- ⚡ Fun fact: Animal lover but non-vegitarian 😄 
 
 
 <h3 align="left">Connect with me:</h3>
