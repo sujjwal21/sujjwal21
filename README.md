@@ -6,7 +6,7 @@
  ### I'm an aspiring Full Stack Web Developer who focuses on writing clean, elegant, and efficient code.
 
 ## Skills:
- *  ⚛️ React | Chakra UI | Material UI 
+ *  ⚛️ React | Redux | Chakra UI | Material UI 
  *  🖥️ HTML | CSS | JavaScript | Tailwind CSS | SCSS
  *  🍃 MongoDB | Node | Express
  *  💻 VsCode | Postman | Git | Canva | npm | GitHub | Vercel | Cyclic | Netlify
