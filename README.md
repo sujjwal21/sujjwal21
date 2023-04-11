@@ -8,7 +8,7 @@
 ## Skills:
  *  ⚛️ React | Redux | Chakra UI | Material UI 
  *  🖥️ HTML | CSS | JavaScript | Tailwind CSS | SCSS
- *  🍃 MongoDB | Node | Express
+ *  🍃 MongoDB | Node | Express | JWT
  *  💻 VsCode | Postman | Git | Canva | npm | GitHub | Vercel | Cyclic | Netlify
 
 
