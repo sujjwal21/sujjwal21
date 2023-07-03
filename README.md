@@ -14,11 +14,11 @@
 
 #### Additional Information
 - 🔭 I’m currently working on Masai School 
-- 🌱 I’m currently learning Full Stack Web Devlopment 
-- 👯 I’m looking to collaborate on Intresting projects 
+- 🌱 I’m currently learning Full Stack Web Development 
+- 👯 I’m looking to collaborate on interesting projects 
 - 💬 Ask me about MERN 
 - 📫 How to reach me: linkedin.com/in/ujjwal-singh-3209b0191 
-- ⚡ Fun fact: Animal lover but non-vegitarian 😂🤣 
+- ⚡ Fun fact: Animal lover but non-vegetarian 😂🤣 
 
 
 <h3 align="left">Connect with me:</h3>
