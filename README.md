@@ -20,6 +20,14 @@
 - 📫 How to reach me: linkedin.com/in/ujjwal-singh-3209b0191 
 - ⚡ Fun fact: Animal lover but non-vegetarian 😂🤣 
 
+## Employment
+- **Current Position:** Product Engineer (Full Stack Developer) at Advenio TecnoSys Company
+  - *Duration:* July 2023 - Present
+  - *Responsibilities:*
+    - Developing and maintaining web applications.
+    - Collaborating with cross-functional teams to define, design, and ship new features.
+    - Ensuring the performance, quality, and responsiveness of applications.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
